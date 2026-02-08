@@ -14,7 +14,7 @@ const About = () => {
     >
       <div className="max-w-6xl mx-auto px-6">
         <motion.h3
-          className="md:text-4xl lg:text-5xl font-bold mb-10 text-gray-200"
+          className="sm:text-4xl md:text-4xl lg:text-5xl font-bold mb-10 text-gray-200"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
@@ -28,7 +28,7 @@ const About = () => {
           passionate about building clean, responsive, and user-focused web
           applications. I enjoy transforming ideas into interactive digital
           experiences using modern frontend technologies."
-          className="text-2xl text-white font-semibold text-center"
+          className="text-2xl text-white font-semibold text-center "
           delay={10}
           duration={2}
           ease="power3.out"
@@ -46,7 +46,7 @@ const About = () => {
           text=" I have hands-on experience with React, JavaScript, and Tailwind CSS,
           and I love working with reusable components, hooks, and APIs. I’m
           always eager to learn new tools and improve my problem-solving skills."
-          className="text-xl text-white font-semibold text-center"
+          className="text-xl text-white font-semibold text-center sm:text-xl "
           delay={10}
           duration={2}
           ease="power3.out"
