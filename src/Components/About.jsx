@@ -74,6 +74,8 @@ const About = () => {
             "JavaScript",
             "React",
             "Tailwind CSS",
+            "Context API",
+            "Redux Toolkit",
             "Git & GitHub",
             "REST APIs",
             "Responsive Design",
