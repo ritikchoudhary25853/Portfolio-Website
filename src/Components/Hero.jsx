@@ -115,7 +115,7 @@ const Hero = () => {
   </Link>
 
   <a
-    href="/Resumelatest.pdf"
+    href="/Resumemorelatest.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="border border-white/30 hover:bg-white/10 px-6 py-3 rounded-xl font-medium"
