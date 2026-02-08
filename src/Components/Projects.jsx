@@ -11,7 +11,7 @@ const projects = [
   {
     title: "Portfolio Website",
     desc: "Personal portfolio website with smooth animations using Framer Motion and Tailwind CSS.",
-    link: "https://portfolio-007.netlify.app/",
+    link: "https://portfolioweb-007.netlify.app/",
     tech: ["React", "Tailwind", "Framer Motion"],
   },
   {
