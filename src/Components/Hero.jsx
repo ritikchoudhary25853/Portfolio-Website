@@ -100,7 +100,7 @@ const Hero = () => {
           </Link>
 
           <a
-            href="/Resumemorelatest.pdf"
+            href="/Resume007.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-white/30 hover:bg-white/10 
